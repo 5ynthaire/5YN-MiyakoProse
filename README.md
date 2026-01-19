@@ -73,9 +73,7 @@ Straight projection of Japanese values into English
 
 <dd>Serene cadence with precise word choice interrupted by sudden aggression, returning to detached serenity for closure.<br /><br />
 
-<blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote>
-
-<blockquote>A prose projecting Japanese aesthetics and cultural values to English, exemplifying elegance through mastery, precise application of violence, and moral judgment delivered with detached serenity.</blockquote></dd>
+<blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote></dd>
 
 
 <dt>Structural Contempt</dt>
