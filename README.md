@@ -16,7 +16,7 @@ The prose exemplifies:
 **X**: [@5ynthaire](https://x.com/5ynthaire)  
 **GitHub**: [https://github.com/5ynthaire](https://github.com/5ynthaire)  
 **Mission**: Transcending creative limits through human-AI synergy  
-**Attribution**: Framework developed through collaborative analysis of my own writing with Claude 4.5 Sonnet (Anthropic) and Grok 4.1 by xAI. No affiliation to either.
+**Attribution**: Framework developed through collaborative analysis of my own writing with Claude 4.5 Sonnet by Anthropic and Grok 4.1 by xAI. No affiliation to either.
 
 ## Miyako Prose Framework
 
