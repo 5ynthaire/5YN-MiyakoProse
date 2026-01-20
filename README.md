@@ -39,7 +39,7 @@ Straight projection of Japanese values into English
   <dt><b>Impact Word</b>, <i>Senretsugo</i> (<i>senretsugo</i>, 鮮烈語)</dt>
   <dd>Primarily used for strikes, these are words that will leave a visceral imprint on the reader's mind. Words evoking strong visual imagery, vulgar terms, or violent language are particularly effective. This is an adaptation of Scott Adams's visual persuasion method.</dd>
 
-  <dt><b>Serenity-Action-Serenity</b>, "SE-AC-SE" or "C-M-C", <i>Sei → Dō → Sei</i> (<i>sei → dō → sei</i>, 静→動→静)</dt>
+  <dt><b>Serenity-Action-Serenity</b>, "SE-AC-SE" or Calm-Movement-Calm, "C-M-C", <i>Sei → Dō → Sei</i> (<i>sei → dō → sei</i>, 静→動→静)</dt>
   <dd>The basic form and rhythmic sense of the strike.</dd>
 
   <dt><b>Detachment</b>, <i>Tsukihanashi</i> (<i>tsukihanashi</i>, 突き放し)</dt>
@@ -139,7 +139,7 @@ Released under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 
 In all examples, Miyako Prose is intertwined with a conversational, technical writing voice, surfacing strongest during criticisms. Topic-Comment structure is present throughout.
 
 - [A prompt to kill 'NPR Speak'](https://x.com/5ynthaire/status/2005578852039299583) (5ynthaire, X, 2025)   
-  Strongest example of aggressive deployment of prose with multiple Zangeki strikes.
+  Strongest example of aggressive deployment of prose with multiple *Zangeki* strikes.
 
 - [Mode B: Alternative Human-AI engagement mode for power users](https://x.com/5ynthaire/status/2001762487985746429) (5ynthaire, X, 2025)   
   Milder example, contempt embedded in technical demonstration.
