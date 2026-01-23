@@ -100,7 +100,7 @@ Above is also an example of the Topic-Comment structure common in Japanese langu
 <dt>Detachment</dt>
 <dd>1. Offensive use: Encasing contempt within abstractions, where the primary claim is an observation or technical analysis.<br />
 Example text:
-<blockquote>Seeing an AI reproduce the familiar conversational flow suggested the root of the phenomenon went beyond a tech illiterate fumbling though a manual written in a language they didn't comprehend—there was a higher order rhetorical jiujitsu involved, whether intentional or emergent.</blockquote></dd>
+<blockquote>An AI reproducing the familiar conversational flow suggests the phenomenon goes beyond a tech illiterate fumbling though a manual written in a language they didn't comprehend—there is a higher order rhetorical jiujitsu involved, whether intentional or emergent.</blockquote></dd>
 <dd>2. Non-offensive use: Acknowledgement and remembrance.<br />
 Example text:
 <blockquote>You're a poet, Elon. This will be the eulogy I will remember.</blockquote>
