@@ -98,10 +98,10 @@ Example text:
 Above is also an example of the Topic-Comment structure common in Japanese language.</dd>
 
 <dt>Detachment</dt>
-<dd>1. Offensive use: Encasing contempt within abstractions, where the primary claim is an observation or technical analysis.<br />
+<dd>1. Offensive use example: Encasing contempt within abstractions, where the primary claim is an observation or technical analysis.<br />
 Example text:
 <blockquote>An AI reproducing the familiar conversational flow suggests the phenomenon goes beyond a tech illiterate fumbling though a manual written in a language they didn't comprehend—there is a higher order rhetorical jiujitsu involved, whether intentional or emergent.</blockquote></dd>
-<dd>2. Non-offensive use: Acknowledgement and remembrance.<br />
+<dd>2. Non-offensive use example: Acknowledgement and remembrance without superflous emotional display.<br />
 Example text:
 <blockquote>You're a poet, Elon. This will be the eulogy I will remember.</blockquote>
 </dd>
