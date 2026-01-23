@@ -96,12 +96,11 @@ English prose exemplifying Japanese aesthetic and cultural values
 <dd>Rhythmic buildup of parallel structures and a swift resolution.<br /><br />
 <blockquote>Calls for 'nuance,'  dismissals for 'oversimplification,' and intellectual posturing via claims of understanding 'complexity' permeate today's discourse.</blockquote>
 Above is also an example of the Topic-Comment structure common in Japanese language.</dd>
-</dl>
 
 <dt>Detachment</dt>
-<dd>Encasing attacks within abstractions as settled fact, where the primary claim is an observation or technical analysis.<br /><br />
+<dd>Encasing contempt within abstractions as settled fact, where the primary claim is an observation or technical analysis.<br /><br />
 <blockquote>From low fidelity LLM responses, I sensed a rhetorical pattern echoing real life, previously dismissed as random noise from confused minds. LLM's replication and successful deployment hinted at a self-reinforcing rhetorical structure.</blockquote></dd>
-
+</dl>
 
 ## Mechanisms and Western Analogues
 
