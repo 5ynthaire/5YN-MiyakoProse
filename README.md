@@ -77,29 +77,34 @@ English prose exemplifying Japanese aesthetic and cultural values
 <dl>
 <dt><i>Zangeki</i> Strike / Calm-Movement-Calm Rhythm</dt>
 
-<dd>Serene cadence with precise word choice interrupted by sudden aggression, returning to detached serenity for closure.<br /><br />
-
+<dd>Serene or technical cadence with precise word choice interrupted by sudden aggression, returning to detached serenity for closure.<br />
+Example text:
 <blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote>
-
 <blockquote>These share the same logical structure, and can be eviscerated with a simple prompt.</blockquote>
 </dd>
 
 
 <dt>Structural Contempt</dt>
-<dd>Indirect attacks framed as observations, abstract questions, clinical analysis or technical demonstrations.<br /><br />
+<dd>Indirect attacks framed as observations, abstract questions, clinical analysis or technical demonstrations.<br />
+Example text:
 <blockquote>It begs the question: Would a credentialed engineer from such a place have conceived of the model presented here, lacking the requisite moral framework?</blockquote>
-
 <blockquote>We should be able to push back effectively, assuming the practitioners possess higher self-awareness than AI chatbots.</blockquote>
 </dd>
 
 <dt><i>Jo-ha-kyū</i> Rhythmic Stacking</dt>
-<dd>Rhythmic buildup of parallel structures and a swift resolution.<br /><br />
+<dd>Rhythmic buildup of parallel structures and a swift resolution.<br />
+Example text:
 <blockquote>Calls for 'nuance,'  dismissals for 'oversimplification,' and intellectual posturing via claims of understanding 'complexity' permeate today's discourse.</blockquote>
 Above is also an example of the Topic-Comment structure common in Japanese language.</dd>
 
 <dt>Detachment</dt>
-<dd>Encasing contempt within abstractions as settled fact, where the primary claim is an observation or technical analysis.<br /><br />
-<blockquote>From low fidelity LLM responses, I sensed a rhetorical pattern echoing real life, previously dismissed as random noise from confused minds. LLM's replication and successful deployment hinted at a self-reinforcing rhetorical structure.</blockquote></dd>
+<dd>1. Offensive use: Encasing contempt within abstractions, where the primary claim is an observation or technical analysis.<br />
+Example text:
+<blockquote>Seeing an AI reproduce the familiar conversational flow suggested the root of the phenomenon went beyond a tech illiterate fumbling though a manual written in a language they didn't comprehend—there was a higher order rhetorical jiujitsu involved, whether intentional or emergent.</blockquote></dd>
+<dd>2. Non-offensive use: Acknowledgement and remembrance.<br />
+Example text:
+<blockquote>You're a poet, Elon. This will be the eulogy I will remember.</blockquote>
+</dd>
 </dl>
 
 ## Mechanisms and Western Analogues
@@ -136,8 +141,8 @@ Within confrontational contexts, ending with detached serenity (over sustained a
 
 ### Contempt Embedded in Structure
 
-Japanese systematization:
-- Keigo-poison
+**Japanese systematization**
+- Contemptuous venom delivered with politeness:
   >お考えになったほうがよろしいかと思います
 - Workplace harassment (パワハラ); ex Using an employee's mistake as "teaching opportunity" for entire team, dissecting mistakes with technical precision and moral judgment.
 
