@@ -22,7 +22,13 @@ The prose exemplifies:
 
 ### Core Concept
 
-Straight projection of Japanese values into English
+English prose exemplifying Japanese aesthetic and cultural values
+
+### Pillars
+
+- Straight projection of Japanese values into English
+- Simplicity and precise word choice over verbosity or rhetorical flourish
+- Moral judgment delivered with certainty and detachment
 
 ### Terminology
 
@@ -73,18 +79,29 @@ Straight projection of Japanese values into English
 
 <dd>Serene cadence with precise word choice interrupted by sudden aggression, returning to detached serenity for closure.<br /><br />
 
-<blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote></dd>
+<blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote>
+
+<blockquote>These share the same logical structure, and can be eviscerated with a simple prompt.</blockquote>
+</dd>
 
 
 <dt>Structural Contempt</dt>
 <dd>Indirect attacks framed as observations, abstract questions, clinical analysis or technical demonstrations.<br /><br />
-<blockquote>It begs the question: Would a credentialed engineer from such a place have conceived of the model presented here, lacking the requisite moral framework?</blockquote></dd>
+<blockquote>It begs the question: Would a credentialed engineer from such a place have conceived of the model presented here, lacking the requisite moral framework?</blockquote>
 
-<dt>Rhythmic Stacking</dt>
+<blockquote>We should be able to push back effectively, assuming the practitioners possess higher self-awareness than AI chatbots.</blockquote>
+</dd>
+
+<dt><i>Jo-ha-kyū</i> Rhythmic Stacking</dt>
 <dd>Rhythmic buildup of parallel structures and a swift resolution.<br /><br />
 <blockquote>Calls for 'nuance,'  dismissals for 'oversimplification,' and intellectual posturing via claims of understanding 'complexity' permeate today's discourse.</blockquote>
 Above is also an example of the Topic-Comment structure common in Japanese language.</dd>
 </dl>
+
+<dt>Detachment</dt>
+<dd>Encasing attacks within abstractions as settled fact, where the primary claim is an observation or technical analysis.<br /><br />
+<blockquote>From low fidelity LLM responses, I sensed a rhetorical pattern echoing real life, previously dismissed as random noise from confused minds. LLM's replication and successful deployment hinted at a self-reinforcing rhetorical structure.</blockquote></dd>
+
 
 ## Mechanisms and Western Analogues
 
@@ -108,10 +125,15 @@ Within confrontational contexts, ending with detached serenity (over sustained a
 
 - Sword vs gun scene in *Raiders of the Lost Ark* (1981).
 
-- Catherine Tramell's line from *Basic Instinct* (1992):
+- Catherine Tramell's lines from *Basic Instinct* (1992):
    >"So read me my rights and arrest me. And then I'll go downtown.
    >Otherwise, get the f*** out of here.
    >(pause) Please?"
+
+   >"Have you ever f***ed on cocaine, Nick?
+   > (recrosses legs)
+   > It's nice."
+
 
 ### Contempt Embedded in Structure
 
