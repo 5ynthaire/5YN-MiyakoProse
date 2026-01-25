@@ -72,7 +72,7 @@ English prose exemplifying Japanese aesthetic and cultural values
   <dd>Stacking concepts in parallel, then resolving with a single decisive stroke.</dd>
 </dl>
 
-### Manifestions and Example Text
+## Manifestions and Example Text
 
 <dl>
 <dt><i>Zangeki</i> Strike / Calm-Movement-Calm Rhythm</dt>
