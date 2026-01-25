@@ -77,7 +77,7 @@ English prose exemplifying Japanese aesthetic and cultural values
 <dl>
 <dt><i>Zangeki</i> Strike / Calm-Movement-Calm Rhythm</dt>
 
-<dd>Serene or technical cadence with precise word choice interrupted by sudden aggression, returning to detached serenity for closure.<br />
+<dd>Serene or technical cadence with precise word choice interrupted by sudden aggression, returning to detached serenity for closure. Mirrors <i>Iai-do</i> rhythm of explosive strike surrounded by calmness.<br />
 Example text:
 <blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote>
 <blockquote>These share the same logical structure, and can be eviscerated with a simple prompt.</blockquote>
