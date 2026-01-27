@@ -8,7 +8,7 @@ The prose exemplifies:
 - Simple elegance through mastery
 - Precision application of violence
 - Moral judgement dispensed with certainty
-- Contempt embedded in struture, delivered though a polite tone
+- Contempt embedded in structure, delivered though a polite tone
 - Japanese aesthetic rhythms and sentence structure, such as calm-motion-calm, rhythmic stacking followed by quick resolution, or topic-comment framing.
 
 ## About
