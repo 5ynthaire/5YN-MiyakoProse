@@ -151,9 +151,9 @@ Within confrontational contexts, ending with detached serenity (over sustained a
 
 ## Novelty
 
-Mechanisms central to Miyako Prose—such as bounded precise violence and structural contempt—closely parallel Japanese aesthetic and linguistic traditions often regarded as culturally specific. Their emergence in my English writing (identified through LLM collaboration) and the presence of ad-hoc Western analogues suggest broader applicability.
+Mechanisms central to Miyako Prose—such as bounded precise violence and structural contempt—closely parallel Japanese aesthetic and linguistic traditions often regarded as culturally specific. Their emergence in my English writing as identified by LLM, and the presence of ad-hoc Western analogues suggest broader applicability.
 
-The framework's primary novelty lies in explicitly systematizing these mechanisms for English discourse, transforming instinctive or culturally influenced patterns into a deliberate style. This bridges Japanese and English rhetorical traditions, offering potential as an alternative pedagogical approach for Japanese learners of English (beyond traditional sentence-example methods) while providing structure for Western practitioners moving beyond ad-hoc use.
+The framework's primary novelty lies in explicitly systematizing these mechanisms for English discourse, transforming instinctive or culturally influenced patterns into a deliberate style. This bridges Japanese and English rhetorical traditions, offering potential as an alternative pedagogical approach for Japanese learners of English beyond traditional sentence-example methods while providing structure for Western practitioners moving beyond ad-hoc use.
 
 ## License
 
@@ -167,12 +167,14 @@ In all examples, Miyako Prose is intertwined with a conversational, technical wr
 - [A prompt to kill 'NPR Speak'](https://x.com/5ynthaire/status/2005578852039299583) (5ynthaire, X, 2025)   
   Strongest example of aggressive deployment of prose with multiple *Zangeki* strikes.
 
+- [Principles of abstraction for precise communication in the AI age'](https://5ynthaire.substack.com/p/principles-of-abstraction-for-precise) (5ynthaire, Substack, 2025)   
+  Used in Discussion section and opening sentence.
+
 - [Mode B: Alternative Human-AI engagement mode for power users](https://x.com/5ynthaire/status/2001762487985746429) (5ynthaire, X, 2025)   
   Milder example, contempt embedded in technical demonstration.
 
 - [How I Prompted My AI To Stop Hallucinating—And Why AI Companies Keep Failing](https://x.com/5ynthaire/status/1975535367110422965) (5ynthaire, X, 2025)   
-  Clinical example of code switch: the Post Script deploys Miyako Prose to assert superiority against engineers described as ineffective and morally bankrupt, following a conversational and technical delivery in the main piece.   
-  Note this descriptor is itself a demonstration of *Zangeki*, casually encased in a technical footnote.
+  Clinical example of code switch: the Post Script deploys Miyako Prose to assert superiority against engineers described as ineffective and morally bankrupt, following a conversational and technical delivery in the main piece. *Note this descriptor is itself a demonstration of **Zangeki**, casually encased in a technical footnote.*
 
 More examples to be added for archival and analysis.
 
