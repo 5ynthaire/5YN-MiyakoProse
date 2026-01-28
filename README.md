@@ -153,7 +153,7 @@ Within confrontational contexts, ending with detached serenity (over sustained a
 
 Mechanisms central to Miyako Prose—such as bounded precise violence and structural contempt—closely parallel Japanese aesthetic and linguistic traditions often regarded as culturally specific. Their emergence in my English writing as identified by LLM, and the presence of ad-hoc Western analogues suggest broader applicability.
 
-The framework's primary novelty lies in explicitly systematizing these mechanisms for English discourse, transforming instinctive or culturally influenced patterns into a deliberate style. This bridges Japanese and English rhetorical traditions, offering potential as an alternative pedagogical approach for Japanese learners of English beyond traditional sentence-example methods while providing structure for Western practitioners moving beyond ad-hoc use.
+The framework's primary novelty lies in explicitly systematizing these mechanisms for English discourse, transforming instinctive or culturally influenced patterns into a deliberate style. This bridges Japanese and English rhetorical traditions, offering potential as an alternative pedagogical approach for Japanese learners of English beyond traditional sentence-example methods, while providing structure for Western practitioners moving beyond ad-hoc use.
 
 ## License
 
