@@ -167,7 +167,7 @@ In all examples, Miyako Prose is intertwined with a conversational, technical wr
 - [A prompt to kill 'NPR Speak'](https://x.com/5ynthaire/status/2005578852039299583) (5ynthaire, X, 2025)   
   Strongest example of aggressive deployment of prose with multiple *Zangeki* strikes.
 
-- [Principles of abstraction for precise communication in the AI age'](https://5ynthaire.substack.com/p/principles-of-abstraction-for-precise) (5ynthaire, Substack, 2025)   
+- [Principles of abstraction for precise communication in the AI age'](https://5ynthaire.substack.com/p/principles-of-abstraction-for-precise) (5ynthaire, Substack, 2026)   
   Used in Discussion section and opening sentence.
 
 - [Mode B: Alternative Human-AI engagement mode for power users](https://x.com/5ynthaire/status/2001762487985746429) (5ynthaire, X, 2025)   
