@@ -88,7 +88,7 @@ Example text:
 <dd>Indirect attacks framed as observations, abstract questions, clinical analysis or technical demonstrations.<br />
 Example text:
 <blockquote>It begs the question: Would a credentialed engineer from such a place have conceived of the model presented here, lacking the requisite moral framework?</blockquote>
-<blockquote>We should be able to push back effectively, assuming the practitioners possess higher self-awareness than AI chatbots.</blockquote>
+<blockquote>We should be able to push back effectively, assuming the practitioners possess higher self-awareness than AI chatbots. (We can hope, right?)</blockquote>
 </dd>
 
 <dt><i>Jo-ha-kyū</i> Rhythmic Stacking</dt>
