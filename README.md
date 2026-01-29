@@ -95,7 +95,9 @@ Example text:
 <dd>Rhythmic buildup of parallel structures and a swift resolution.<br />
 Example text:
 <blockquote>Calls for 'nuance,'  dismissals for 'oversimplification,' and intellectual posturing via claims of understanding 'complexity' permeate today's discourse.</blockquote>
-Above is also an example of the Topic-Comment structure common in Japanese language.</dd>
+Above is also an example of the Topic-Comment structure common in Japanese language.<br />
+
+<blockquote>Users frustrated over premature output, unilateral closures, and lack of serious discussion from AI represent an alternative mode of human-AI engagement</blockquote></dd>
 
 <dt>Detachment</dt>
 <dd>1. Offensive use example: Encasing contempt within abstractions, where the primary claim is an observation or technical analysis.<br />
@@ -162,7 +164,7 @@ Released under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 
 
 ## Examples of Miyako Prose Writing
 
-In all examples, Miyako Prose is intertwined with a conversational, technical writing voice, surfacing strongest during criticisms. Topic-Comment structure is present throughout.
+In these examples, Miyako Prose is intertwined with a conversational, technical writing voice, surfacing strongest during criticisms. Topic-Comment structure is present throughout.
 
 - [A prompt to kill 'NPR Speak'](https://x.com/5ynthaire/status/2005578852039299583) (5ynthaire, X, 2025)   
   Strongest example of aggressive deployment of prose with multiple *Zangeki* strikes.
@@ -171,7 +173,7 @@ In all examples, Miyako Prose is intertwined with a conversational, technical wr
   Emerges in Discussion section and opening sentence.
 
 - [Mode B: Alternative Human-AI engagement mode for power users](https://x.com/5ynthaire/status/2001762487985746429) (5ynthaire, X, 2025)   
-  Milder example, contempt embedded in technical demonstration.
+  Milder example, contempt embedded in technical demonstration. Note recurring stacks of three, example of *Jo-ha-kyū* rhythm.
 
 - [How I Prompted My AI To Stop Hallucinating—And Why AI Companies Keep Failing](https://x.com/5ynthaire/status/1975535367110422965) (5ynthaire, X, 2025)   
   Clinical example of code switch: the Post Script deploys Miyako Prose to assert superiority against engineers described as ineffective and morally bankrupt, following a conversational and technical delivery in the main piece. *Note this descriptor is itself a demonstration of **Zangeki**, casually encased in a technical footnote.*
