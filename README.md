@@ -172,7 +172,7 @@ In these examples, Miyako Prose is intertwined with a conversational, technical 
   Emerges in Discussion section and opening sentence.
 
 - [Mode B: Alternative Human-AI engagement mode for power users](https://x.com/5ynthaire/status/2001762487985746429) (5ynthaire, X, 2025)   
-  Milder example, contempt embedded in technical demonstration. Note recurring stacks of three, example of *Jo-ha-kyū* rhythm.
+  Milder example, contempt embedded in technical demonstration. Note recurring stacks of three—examples of *Jo-ha-kyū* rhythm.
 
 - [How I Prompted My AI To Stop Hallucinating—And Why AI Companies Keep Failing](https://x.com/5ynthaire/status/1975535367110422965) (5ynthaire, X, 2025)   
   Clinical example of code switch: the Post Script deploys Miyako Prose to assert superiority against engineers described as ineffective and morally bankrupt, following a conversational and technical delivery in the main piece. *Note this descriptor is itself a demonstration of **Zangeki**, casually encased in a technical footnote.*
