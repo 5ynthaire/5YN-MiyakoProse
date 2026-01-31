@@ -1,7 +1,7 @@
 ![Miyako Prose Banner](assets/miyako-prose-banner.jpg)
 # Miyako Prose
 
-**Miyako Prose** is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy. Fully internalized subconsciously, it was identified and distilled into a framework via LLM analysis of my own writing. The style projects Japanese aesthetic and cultural values into English prose, infusing and reconstucting concepts previously thought to be unique to Japanese linguistic expression.
+**Miyako Prose** is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy. Fully internalized subconsciously, it was identified and distilled into a framework via LLM analysis of my own writing. The style projects Japanese aesthetic and cultural values into English prose, infusing and reconstructing concepts previously thought to be unique to Japanese linguistic expression.
 
 The prose exemplifies:
 
