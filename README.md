@@ -107,7 +107,7 @@ Example text:
 <blockquote>You're a poet, Elon. This will be the eulogy I will remember.</blockquote>
 
 <dt>Combined Deployment at Minimum Scale</dt>
-<dd>Single-sentence demonstration of multiple mechanisms operating simultaneously.<br />
+<dd>Demonstration of multiple mechanisms operating simultaneously.<br />
 <blockquote>The struggle is indeed what matters. His fallacy is assigning virtue to seeking comfort, and villifying those that don't. Fukuyama is an embarrassment to Japanese values.</blockquote>
 <ul>
 <li><i>Structural Contempt</i> via reframe: intellectual terrain conceded, target reclassified as moral failure.</li>
