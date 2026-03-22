@@ -105,8 +105,18 @@ Example text:
 <dd>2. Non-offensive use example: Acknowledgement and remembrance without superflous emotional display.<br />
 Example text:
 <blockquote>You're a poet, Elon. This will be the eulogy I will remember.</blockquote>
+
+<dt>Combined Deployment at Minimum Scale</dt>
+<dd>Single-sentence demonstration of multiple mechanisms operating simultaneously.<br />
+<blockquote>The struggle is indeed what matters. His fallacy is assigning virtue to seeking comfort, and villifying those that don't. Fukuyama is an embarrassment to Japanese values.</blockquote>
+<ul>
+<li><i>Structural Contempt</i> via reframe: intellectual terrain conceded, target reclassified as moral failure.</li>
+<li><i>Tsukihanashi</i>: target handled as absent specimen assessed against an external standard. </li>
+<li><i>C-M-C</i>: verdict delivered and closed without sustained heat.</li>
+</ul>
 </dd>
 </dl>
+
 
 ## Mechanisms and Western Analogues
 
@@ -163,7 +173,7 @@ Released under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 
 
 ## Examples of Miyako Prose Writing
 
-In these examples, Miyako Prose is intertwined with a conversational, technical writing voice, surfacing strongest during criticisms. Topic-Comment structure is present throughout.
+In most examples, Miyako Prose is intertwined with a conversational, technical writing voice, surfacing strongest during criticisms. Topic-Comment structure is present throughout.
 
 - [A prompt to kill 'NPR Speak'](https://x.com/5ynthaire/status/2005578852039299583) (5ynthaire, X, 2025)   
   Strongest example of aggressive deployment of prose with multiple *Zangeki* strikes.
