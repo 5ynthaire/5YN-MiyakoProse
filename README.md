@@ -144,6 +144,7 @@ Yes, you are. BS detection is domain agnostic and scales with intelligence. You 
 <li><i>C-M-C</i> at macro level: Calm opening, payload, clinical diagnosis.</li>
 <li><i>C-M-C</i> in 3rd sentence: 'data retrieval' is the strike word, 'higher order reasoning' returns to serenity.</li>
 <li><i>Structural Contempt</i> via reframe: Domain knowledge reclassified as 'data retrieval'.</li>
+<li><i>Shimé</i>: 'higher order reasoning'</li>
 </ul>
 
 
