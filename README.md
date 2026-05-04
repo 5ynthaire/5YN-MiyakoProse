@@ -135,6 +135,17 @@ Compare ending with "Japanese language" or simply "Japanese".
 <li><i>Topic-comment framing</i></li>
 <li><i>Zangeki</i>: "weak" as strike word, comma as <i>zanshin</i>, remainder returns to serenity via clinical register.</li>
 </ul>
+<blockquote>
+<blockquote>
+<i>Judgement and the ability to challenge AI output is becoming increasingly necessary, and valuable. Which makes domain knowledge more valuable by the second. Am I wrong ?</i>
+</blockquote>
+Yes, you are. BS detection is domain agnostic and scales with intelligence. You conflate data retrieval with higher order reasoning.</blockquote>
+<ul>
+<li><i>C-M-C</i> at macro level: Calm opening, payload, clinical diagnosis.</li>
+<li><i>C-M-C</i> in 3rd sentence: 'data retrieval' is the strike word, 'higher order reasoning' returns to serenity.</li>
+<li><i>Structural Contempt</i> via reframe: Domain knowledge reclassified as 'data retrieval'.</li>
+</ul>
+
 
 </dd>
 </dl>
