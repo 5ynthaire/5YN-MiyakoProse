@@ -146,7 +146,18 @@ Yes, you are. BS detection is domain agnostic and scales with intelligence. You 
 <li><i>Structural Contempt</i> via reframe: Domain knowledge reclassified as 'data retrieval'.</li>
 <li><i>Shimé</i>: 'higher order reasoning'</li>
 </ul>
-
+<blockquote>Present AI discourse’s incoherence stems from a flattened assumption of AI’s impact and willful blindness to cognitive hierarchy.</blockquote>
+<ul>
+<li><i>Topic-comment framing</i>: "incoherence" as the subject.</li>
+<li><i>Zangeki</i>: "willful blindness" as strike word.</li>
+<li><i>Tsukihanashi</i>: depersonalized, clinical register from an observer.</li>
+</ul>
+<blockquote>Recall: The Internet used to be where geeks and losers went, now it’s the primary channel for the popular crowd to project their egos. Denials and dismissals have a shelf life before the shameless about-face.</blockquote>
+<ul>
+<li><i>C-M-C</i>: past-state serenity into present-state strike.</li>
+<li><i>Tsukihanashi</i>: target held as unnamed collective.</li>
+<li><i>Shimé</i>: "shameless about-face" closes the prophecy.</li>
+</ul>
 
 </dd>
 </dl>
@@ -173,7 +184,7 @@ Within confrontational contexts, ending with detached serenity (over sustained a
 **Western Analogues (ad-hoc)**
 
 - Sword vs gun scene in *Raiders of the Lost Ark* (1981).
-
+- "You’ve had your six" from *Dr No* (1962).
 - Catherine Tramell's lines from *Basic Instinct* (1992):
    >"So read me my rights and arrest me. And then I'll go downtown.
    >Otherwise, get the f*** out of here.
@@ -209,11 +220,14 @@ Released under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 
 
 In most examples, Miyako Prose is intertwined with a conversational, technical writing voice, surfacing strongest during criticisms. Topic-Comment structure is present throughout.
 
-- [A prompt to kill 'NPR Speak'](https://x.com/5ynthaire/status/2005578852039299583) (5ynthaire, X, 2025)   
+- [A prompt to kill 'NPR Speak'](https://x.com/5ynthaire/status/2005578852039299583) (5ynthaire, X, 2025) / [mirror](https://5ynthaire.substack.com/p/a-prompt-to-kill-npr-speak)
   Strongest example of aggressive deployment of prose with multiple *Zangeki* strikes.
 
 - [Principles of abstraction for precise communication in the AI age](https://5ynthaire.substack.com/p/principles-of-abstraction-for-precise) (5ynthaire, Substack, 2026)   
   Emerges in Discussion section and opening sentence.
+
+- [Disclosure: How I use AI on Substack](https://5ynthaire.substack.com/p/disclosure-how-i-use-ai-on-substack) (5ynthaire, Substack, 2026)   
+  Example of integrated deployment with no legible seam between standard register and Miyako Prose.
 
 - [Mode B: Alternative Human-AI engagement mode for power users](https://x.com/5ynthaire/status/2001762487985746429) (5ynthaire, X, 2025)   
   Milder example, contempt embedded in technical demonstration. Note recurring stacks of three—examples of *Jo-ha-kyū* rhythm.
